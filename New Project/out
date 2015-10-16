@@ -1,0 +1,42 @@
+Visual Basic.Net Compiler version 0.0.0.5943 (Mono 3.8 - tarball)
+Copyright (C) 2004-2010 Rolf Bjarne Kvinge. All rights reserved.
+
+/home/cg/root/Newfile(4).vb (14,18) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (15,22) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (16,18) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (17,17) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (18,25) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (19,25) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (20,26) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (21,32) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (22,24) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (23,30) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (24,25) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (25,25) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (26,26) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (27,32) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (28,24) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (29,30) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (32,18) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/Newfile(4).vb (33,19) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (14,18) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (15,22) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (16,18) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (17,17) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (18,25) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (19,25) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (20,26) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (21,32) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (22,24) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (23,30) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (24,25) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (25,25) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (26,26) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (27,32) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (28,24) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (29,30) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (32,18) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+/home/cg/root/main.vb (33,19) : warning VBNC42024: Function without an 'As' clause; Object return type assumed.
+vbnc : error VBNC30420: Could not find a 'Sub Main' in 'Newfile(1)'.
+There were 1 errors and 36 warnings.
+Compilation took 00:00:01.0551880
