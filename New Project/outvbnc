@@ -1,0 +1,10 @@
+Visual Basic.Net Compiler version 0.0.0.5943 (Mono 3.8 - tarball)
+Copyright (C) 2004-2010 Rolf Bjarne Kvinge. All rights reserved.
+
+vbnc : Command line : error VBNC99999: Unexpected error: Object reference not set to an instance of an object
+  at vbnc.CodeFile.ResolveCode (vbnc.ResolveInfo Info) [0x00000] in /tmp/mono-basic-3.8/vbnc/vbnc/source/General/CodeFile.vb:137 
+  at vbnc.BaseObjects`1[vbnc.CodeFile].ResolveCode (vbnc.ResolveInfo Info) [0x00054] in /tmp/mono-basic-3.8/vbnc/vbnc/source/General/BaseObjects`1.vb:63 
+  at vbnc.CodeFiles.Resolve (vbnc.ResolveInfo Info) [0x00000] in /tmp/mono-basic-3.8/vbnc/vbnc/source/General/CodeFiles.vb:31 
+  at vbnc.Compiler.Compile_Resolve () [0x00063] in /tmp/mono-basic-3.8/vbnc/vbnc/source/General/Compiler.vb:372 
+  at vbnc.Compiler.Compile () [0x004c6] in /tmp/mono-basic-3.8/vbnc/vbnc/source/General/Compiler.vb:530 
+Compilation took 00:00:00.6948260
