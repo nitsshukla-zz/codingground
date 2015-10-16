@@ -1,0 +1,1 @@
+{"id":"vb.net","ext":"vb","version":"Mono v3.8.0","compile":"vbnc *.vb /out:main.exe","execute":"mono main.exe","preview":"","command":"","file":"/home/cg/src/samples/main.vb","url":"compile_vb.net_online.php","mode":"vbscript"}
